@@ -5,8 +5,8 @@ This paper proposes an end-to-end framework for cell detection and classificatio
 
 ## Code Availability
 
-## Current Status: 
+### Current Status: 
 The training configuration and parts of the code are temporarily withheld as the paper is currently under review.
 
-## Release Plan:
+### Release Plan:
 Upon acceptance of the paper, we will release the complete, streamlined, and encapsulated code repository.
