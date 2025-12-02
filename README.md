@@ -10,3 +10,5 @@ The training configuration and parts of the code are temporarily withheld as the
 
 ### Release Plan:
 Upon acceptance of the paper, we will release the complete, streamlined, and encapsulated code repository.
+
+Our code is developed based on [MMDetection](https://github.com/open-mmlab/mmdetection).
